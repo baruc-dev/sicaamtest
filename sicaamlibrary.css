@@ -1,0 +1,1550 @@
+.align-self-end
+{
+    align-self: end;
+}
+
+
+.text-align-left
+{
+    text-align: left;
+}
+
+.text-align-right
+{
+    text-align: right;
+}
+
+.text-align-center
+{
+    text-align: center;
+}
+
+.border-radius-10
+{
+    border-radius: 10px;
+}
+
+.border-none
+{
+    border: none;
+    
+}
+
+.flex-wrap
+{
+    flex-wrap: wrap;
+}
+
+.border-delgado-gris
+{
+border: 1px solid #C6CFEB;
+border-radius: 15px;
+}
+
+.border-delgado
+{
+border: 1px solid #344C98;
+border-radius: 15px;
+}
+
+.fill-rojo
+{
+    filter: brightness(0) saturate(100%) invert(17%) sepia(87%) saturate(6977%) hue-rotate(358deg) brightness(106%) contrast(112%);
+}
+
+.fill-negro
+{
+    filter: brightness(0) saturate(100%);
+}
+
+.fill-blue
+{
+    filter: brightness(0) saturate(100%) invert(12%) sepia(51%) saturate(1260%) hue-rotate(197deg) brightness(98%) contrast(95%);
+}
+
+.fill-white
+{
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(7467%) hue-rotate(38deg) brightness(101%) contrast(86%);
+}
+
+.display-flex
+{
+    display: flex;
+}
+
+.bg-color-transparent
+{
+    background-color: transparent;
+}
+
+.bg-color-green
+{
+    background-color: green;
+}
+
+
+.bg-color-grey
+{
+    background-color: #dadddd;
+}
+
+
+.bg-color-yellow
+{
+    background-color: yellow;
+}
+
+.bg-color-red
+{
+    background-color: red;
+}
+
+.bg-color-navy50
+{
+    background-color: #1A264C;
+}
+
+.bg-color-blue50
+{
+    background-color: #344C98;
+}
+
+
+.bg-color-navy50
+{
+    background-color: #1A264C;
+}
+
+.bg-color-white
+{
+    background-color: white;
+}
+
+.color-blue50
+{
+    color: #344C98;
+}
+
+.color-navy50
+{
+    color: #1A264C;
+}
+
+.color-white
+{
+    color: white;
+}
+
+
+.color-gray
+{
+    color: #dadddd;
+}
+
+.align-items-end
+{
+   
+    align-items: end;
+}
+
+.align-items-start
+{
+    align-items: start;
+}
+
+.align-items-center
+{
+    align-items: center;
+}
+.justify-content-end
+{
+    justify-content: end;
+}
+
+.justify-content-start
+{
+    justify-content: start;
+}
+
+.justify-content-center
+{
+    justify-content: center;
+}
+
+.justify-content-spacebetween
+{
+    justify-content: space-between;
+}
+
+.justify-content-spacearound
+{
+    justify-content: space-around;
+}
+
+.flex-direction-row
+{
+    flex-direction: row;
+}
+
+.flex-direction-column
+{
+   
+    flex-direction: column;   
+}
+
+.width-1
+{
+    width: 1%;
+}
+
+.width-2
+{
+    width: 2%;
+}
+.width-3
+{
+    width: 3%;
+}
+
+.width-4
+{
+    width: 4%;
+}
+
+.width-5
+{
+    width: 5%;
+}
+
+.width-6
+{
+    width: 6%;
+}
+
+.width-7
+{
+    width: 7%;
+}
+
+.width-8
+{
+    width: 8%;
+}
+
+.width-9
+{
+    width: 9%;
+}
+.width-10
+{
+    width: 10%;
+}
+.width-11
+{
+    width: 11%;
+}
+
+.width-12
+{
+    width: 12%;
+}
+
+.width-13
+{
+    width: 13%;
+}
+
+.width-14
+{
+    width: 14%;
+}
+
+.width-15
+{
+    width: 15%;
+}
+
+.width-16
+{
+    width: 16%;
+}
+
+
+.width-17
+{
+    width: 17%;
+}
+
+.width-18
+{
+    width: 18%;
+}
+
+.width-19
+{
+    width: 19%;
+}
+.width-20
+{
+    width: 20%;
+}
+
+
+.width-21
+{
+    width: 21%;
+}
+
+
+.width-22
+{
+    width: 22%;
+}
+
+
+.width-23
+{
+    width: 23%;
+}
+
+
+.width-24
+{
+    width: 24%;
+}
+
+.width-25
+{
+    width: 25%;
+}
+
+.width-28
+{
+    width: 28%;
+}
+
+.width-30
+{
+    width: 30%;
+}
+
+
+.width-31
+{
+    width: 31%;
+}
+
+
+.width-32
+{
+    width: 32%;
+}
+
+
+.width-33
+{
+    width: 33%;
+}
+
+
+.width-34
+{
+    width: 34%;
+}
+
+.width-35
+{
+    width: 35%;
+}
+
+.width-40
+{
+    width: 40%;
+}
+
+.width-45
+{
+    width: 45%;
+}
+
+
+
+.width-46
+{
+    width: 46%;
+}
+
+
+
+.width-47
+{
+    width: 47%;
+}
+
+
+
+.width-48
+{
+    width: 48%;
+}
+
+
+
+.width-49
+{
+    width: 49%;
+}
+
+.width-50
+{
+    width: 50%;
+}
+
+.width-51
+{
+    width: 51%;
+}
+
+.width-52
+{
+    width: 52%;
+}
+
+.width-53
+{
+    width: 53%;
+}
+
+.width-54
+{
+    width: 54%;
+}
+
+.width-55
+{
+    width: 55%;
+}
+.width-56
+{
+    width: 56%;
+}
+.width-57
+{
+    width: 57%;
+}
+
+.width-58
+{
+    width: 58%;
+}
+
+.width-59
+{
+    width: 59%;
+}
+
+
+.width-60
+{
+    width: 60%;
+}
+
+
+
+
+.width-61
+{
+    width: 61%;
+}
+
+
+
+.width-62
+{
+    width: 62%;
+}
+
+
+.width-63
+{
+    width: 63%;
+}
+
+
+.width-64
+{
+    width: 64%;
+}
+
+
+
+
+
+.width-65
+{
+    width: 65%;
+}
+
+.width-66
+{
+    width: 66%;
+}
+
+
+.width-67
+{
+    width: 67%;
+}
+
+.width-68
+{
+    width: 68%;
+}
+
+.width-69
+{
+    width: 69%;
+}
+
+.width-70
+{
+    width: 70%;
+}
+
+
+.width-71
+{
+    width: 71%;
+}
+
+
+.width-72
+{
+    width: 72%;
+}
+
+
+.width-73
+{
+    width: 73%;
+}
+
+
+.width-74
+{
+    width: 74%;
+}
+
+
+
+.width-75
+{
+    width: 75%;
+}
+
+
+.width-76
+{
+    width: 76%;
+}
+
+
+.width-77
+{
+    width: 77%;
+}
+
+.width-78
+{
+    width: 78%;
+}
+
+
+.width-79
+{
+    width: 79%;
+}
+
+
+.width-80
+{
+    width: 80%;
+}
+
+
+.width-81
+{
+    width: 81%;
+}
+
+
+.width-82
+{
+    width: 82%;
+}
+
+
+.width-83
+{
+    width: 83%;
+}
+
+
+.width-84
+{
+    width: 84%;
+}
+
+
+.width-85
+{
+    width: 85%;
+}
+
+
+.width-86
+{
+    width: 86%;
+}
+
+
+
+.width-87
+{
+    width: 87%;
+}
+
+
+.width-88
+{
+    width: 88%;
+}
+
+
+.width-89
+{
+    width: 89%;
+}
+
+
+.width-90
+{
+    width: 90%;
+}
+
+
+.width-91
+{
+    width: 91%;
+}
+
+
+.width-92
+{
+    width: 92%;
+}
+
+
+.width-93
+{
+    width: 93%;
+}
+
+
+.width-94
+{
+    width: 94%;
+}
+
+
+
+.width-95
+{
+    width: 95%;
+}
+
+
+.width-96
+{
+    width: 96%;
+}
+
+
+
+.width-97
+{
+    width: 97%;
+}
+
+
+
+.width-98
+{
+    width: 98%;
+}
+
+
+
+.width-99
+{
+    width: 99%;
+}
+
+.width-100
+{
+    width: 100%;
+}
+
+
+.height-linea
+{
+    height: .11rem;
+}
+
+.height-1rem
+{
+    height: 1rem;
+}
+
+
+.height-2rem
+{
+    height: 2rem;
+}
+
+.height-2mediorem
+{
+    height: 2.5rem;
+}
+
+
+.height-3rem
+{
+    height: 3rem;
+}
+
+.height-3mediorem
+{
+    height: 3.5rem;
+}
+
+.height-4rem
+{
+    height: 4rem;
+}
+
+
+.height-5rem
+{
+    height: 5rem;
+}
+
+.height-6rem
+{
+    height: 6rem;
+}
+
+
+.height-7rem
+{
+    height: 7rem;
+}
+
+
+.height-8rem
+{
+    height: 8rem;
+}
+
+
+.height-9rem
+{
+    height: 9rem;
+}
+
+.height-10rem
+{
+    height: 10rem;
+}
+
+
+.height-11rem
+{
+    height: 11rem;
+}
+
+
+.height-12rem
+{
+    height: 12rem;
+}
+
+.height-13rem
+{
+    height: 13rem;
+}
+
+.height-14rem
+{
+    height: 14rem;
+}
+
+.height-15rem
+{
+    height: 15rem;
+}
+
+
+.height-80vh
+{
+    height: 80vh;
+}
+
+
+
+
+
+.height-1
+{
+    height: 1%;
+}
+
+
+.height-2
+{
+    height: 2%;
+}
+
+
+.height-3
+{
+    height: 3%;
+}
+
+
+.height-4
+{
+    height: 4%;
+}
+
+
+
+.height-5
+{
+    height: 5%;
+}
+
+
+.height-6
+{
+    height: 6%;
+}
+
+
+.height-7
+{
+    height: 7%;
+}
+
+
+.height-8
+{
+    height: 8%;
+}
+
+
+.height-9
+{
+    height: 9%;
+}
+.height-10
+{
+    height: 10%;
+}
+
+.height-15
+{
+    height: 15%;
+}
+
+.height-20
+{
+    height: 20%;
+}
+
+
+
+.height-25
+{
+    height: 25%;
+}
+
+.height-30
+{
+    height: 30%;
+}
+
+.height-35
+{
+    height: 35%;
+}
+
+
+.height-40
+{
+    height: 40%;
+}
+
+.height-45
+{
+    height: 45%;
+}
+
+.height-50
+{
+    height: 50%;
+}
+
+
+
+.height-50
+{
+    height: 51%;
+}
+
+
+
+.height-52
+{
+    height: 52%;
+}
+
+
+
+
+.height-53
+{
+    height: 53%;
+}
+
+
+
+.height-54
+{
+    height: 54%;
+}
+
+
+.height-55
+{
+    height: 55%;
+}
+
+.height-56
+{
+    height: 56%;
+}
+
+
+
+.height-57
+{
+    height: 57%;
+}
+
+
+
+.height-58
+{
+    height: 58%;
+}
+
+
+
+.height-59
+{
+    height: 59%;
+}
+
+.height-60
+{
+    height: 60%;
+}
+
+
+
+.height-65
+{
+    height: 65%;
+}
+
+.height-70
+{
+    height: 70%;
+}
+
+
+.height-75
+{
+    height: 75%;
+}
+
+.height-80
+{
+    height: 80%;
+}
+
+
+.height-85
+{
+    height: 85%;
+}
+
+
+
+.height-90
+{
+    height: 90%;
+}
+
+
+.height-91
+{
+    height: 91%;
+}
+
+
+.height-92
+{
+    height: 92%;
+}
+
+
+.height-93
+{
+    height: 93%;
+}
+
+
+.height-94
+{
+    height: 94%;
+}
+
+
+.height-95
+{
+    height: 95%;
+}
+
+.height-100
+{
+    height: 100%;
+}
+
+.padding-1
+{
+    padding: -1rem;
+}
+
+.padding-2
+{
+    padding: -2rem;
+}
+
+.padding-3
+{
+    padding: -3rem;
+}
+
+.padding1 
+{
+    padding: 1rem;
+}
+
+.padding2
+
+{
+    padding: 2rem;
+}
+
+.padding3
+{
+    padding: 3rem;
+}
+
+.margin-left1
+{
+    margin-left: 1rem;
+}
+
+.margin-left2
+{
+    margin-left: 2rem;
+}
+
+.margin-left3
+{
+    margin-left: 3rem;
+}
+
+.margin-left4
+{
+    margin-left: 4rem;
+}
+
+.margin-left5
+{
+    margin-left: 5rem;
+}
+
+.margin-left-1
+{
+    margin-left: -1rem;
+}
+
+.margin-left-2
+{
+    margin-left: -2rem;
+}
+
+.margin-left-3
+{
+    margin-left: -3rem;
+}
+
+.margin-left-4
+{
+    margin-left: -4rem;
+}
+
+.margin-left-5
+{
+    margin-left: -5rem;
+}
+
+.margin-right1
+{
+    margin-right: 1rem;
+}
+
+.margin-right2
+{
+    margin-right: 2rem;
+}
+
+.margin-right3
+{
+    margin-right: 3rem;
+}
+
+.margin-right4
+{
+    margin-right: 4rem;
+}
+
+.margin-right5
+{
+    margin-right: 5rem;
+}
+
+.margin-right-1
+{
+    margin-right: -1rem;
+}
+
+.margin-right-2
+{
+    margin-right: -2rem;
+}
+
+.margin-right-3
+{
+    margin-right: -3rem;
+}
+
+.margin-right-4
+{
+    margin-right: -4rem;
+}
+
+.margin-right-5
+{
+    margin-right: -5rem;
+}
+
+.margin-toppoco
+{
+    margin-top: .7rem;
+}
+
+.margin-top1
+{
+    margin-top: 1rem;
+}
+
+.margin-top2
+{
+    margin-top: 2rem;
+}
+
+.margin-top3
+{
+    margin-top: 3rem;
+}
+.margin-top4
+{
+    margin-top: 4rem;
+}
+.margin-top5
+{
+    margin-top: 5rem;
+}
+
+
+.margin-top-poco
+{
+    margin-top: -.6rem;
+}
+.margin-top-1
+{
+    margin-top: -1rem;
+}
+.margin-top-2
+{
+    margin-top: -2rem;
+}
+.margin-top-3
+{
+    margin-top: -3rem;
+}
+.margin-top-4
+{
+    margin-top: -4rem;
+}
+.margin-top-5
+{
+    margin-top: -5rem;
+}
+
+
+.margin-bottom1
+{
+    margin-bottom: 1rem;
+}
+
+
+.margin-bottom2
+{
+    margin-bottom: 2rem;
+}
+
+.margin-bottom3
+{
+    margin-bottom: 3rem;
+}
+
+.margin-bottom4
+{
+    margin-bottom: 4rem;
+}
+
+
+.margin-bottom5
+{
+    margin-bottom: 5rem;
+}
+
+.bold 
+{
+    font-weight: 700;
+}
+
+.sticky
+{
+    position: sticky;
+}
+
+.z-index1
+{
+    z-index: 1;
+}
+
+.object-fit-fill
+{
+    object-fit:fill;
+}
+
+.object-fit-cover
+{
+    object-fit:cover;
+}
+
+.headertable
+{
+    background-color: #dadddd;
+    border-radius: 10px;
+}
+
+.vigente
+{
+    background-color: rgba(46, 204, 113, .1);
+    color:#00CC66;
+    border-radius: 10px;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.proxima
+{
+    background-color: rgba(255, 192, 0, .1);
+    
+    color: #CC9900;
+    border-radius: 10px;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.vencido
+{
+    background-color: rgba(231, 76, 60, .1);
+    color: #CC3300;
+    border-radius: 10px;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.scroll
+{
+    overflow-y: scroll;
+}
+
+
+
+.hover-cursor-pointer:hover
+{
+    cursor: pointer;
+}
+
+.hover-cursor-not:hover
+{
+    cursor: not-allowed;
+}
+
+.select
+{
+    border: solid 1px #344C98;
+    height: 2.6rem;
+    border-radius: 10px;
+    font-size: large;
+    font-size: medium;
+    padding-right: 15px;
+    padding-left: .7rem;
+}
+
+.select-disabled
+{
+    border: solid 1px #dadddd;
+    height: 2.6rem;
+    border-radius: 10px;
+    font-size: large;
+    font-size: medium;
+    padding-right: 15px;
+    padding-left: .7rem;
+}
+
+.select-disabled:hover  
+{
+cursor: not-allowed;
+}
+
+
+.btn-primary
+{
+    background-color: #344C98;
+    color: white;
+    height: 2.5rem;
+    border: none;
+    border-radius: 25px;
+}
+
+.btn-primary:hover
+{
+    cursor: pointer;
+    background-color: #1D1F48;
+}
+
+
+
+
+.btn-secundary
+{
+background-color: white;
+    color: #344C98;
+    height: 2.5rem;
+    border: solid 2px #344C98;
+    border-radius: 25px;
+}
+
+.btn-secundary:hover
+{
+    cursor: pointer;
+    background-color: #1D1F48;
+}
+
+.parrafo
+{
+    font-size: large;
+    font-weight: 600;
+}
+
+.display-none
+{
+    display: none;
+}
+
+
+.adjuntarArchivo
+{
+    margin-top: 1rem;
+    border: dashed 2px  #C6CFEB;
+    height: 15%;
+    border-radius: 10px;
+}
+
+
+
+
+.adjuntarArchivos
+{
+    margin-top: 1rem;
+    border: dashed 2px  #C6CFEB;
+   
+    border-radius: 10px;
+}
+
+.labelAdjuntar
+{
+    width: 100%;
+    height: 8rem;
+     display: flex;
+}
+
+.inputAdjuntar
+{
+    display: none;
+}
+
+.labelAdjuntar:hover
+{
+    cursor: pointer;
+}
+
+
+
+.upload
+{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    /* background-color: red; */
+    justify-content: end;
+    align-items: center;
+}
+
+.uploadimg
+{
+    height: 30%;
+   filter: brightness(0) saturate(100%) invert(0%) sepia(6%) saturate(24%) hue-rotate(190deg) brightness(93%) contrast(105%); ;
+}
+
+.btnSquare
+{
+    width: 2.6rem;
+    height: 2.6rem;
+    background-color: #344C98;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.btn-Sec
+{
+    background-color: transparent;
+    border: none;
+    color: #dadddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 33%;
+    height: 3rem;
+}
+
+.btn-Sec-Active
+{
+    background-color: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: #344C98;
+    color: #dadddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 33%;
+    height: 3rem;
+}
+
+.btn-Enlace
+{
+    background-color: transparent;
+    border: none;
+    color: #344C98;
+    
+}
+
+.btn-Enlace:hover
+{
+    cursor: pointer;
+}
+
+.foto-perfil
+{
+    margin-top:1rem;
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+
+.foto-perfil-main
+{
+    margin-top:1rem;
+    width: 14rem;
+    height: 14rem;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+.none
+{
+    display: none;
+}
+
+
+.block
+{
+    display: block;
+}
